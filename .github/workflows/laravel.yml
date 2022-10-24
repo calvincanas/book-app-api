@@ -1,6 +1,4 @@
-# GithHub Actions Workflow generated with Ghygen
-# Original configuration: https://ghygen.hi-folks.dev?code=a047012ed628c320bad0bf4ee7e98648
-name: Template - Laravel application (Mysql)
+name: Template - Laravel Test
 on:
   push:
     branches:
