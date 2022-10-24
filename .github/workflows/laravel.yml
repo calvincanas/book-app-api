@@ -1,4 +1,4 @@
-name: Template - Laravel Test
+name: Laravel Test
 on:
   push:
     branches:
